@@ -5,7 +5,7 @@ api = 2
 core = 7.x
 
 ; Drupal project
-projects[drupal] = 7.14
+projects[drupal] = 7.16
 
 ; "Session #FlyViews Site Profile" installation profile.
 projects[flyviews][type] = profile
